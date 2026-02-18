@@ -1,4 +1,4 @@
-name: Run Java Program
+name: Run Java Program 
 on:
   push:
     branches: [ main ]
